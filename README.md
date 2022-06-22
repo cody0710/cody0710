@@ -1,9 +1,9 @@
 - Hi, cody0710 is one of my pseudonym and restarted using GitHub mainly to share my coding experiences with other developers.
-- You can contact me at cody0710'at'hotmail.com for further discussions but do not send me anything nonsense such as cold emails. ;)
+- You can contact me @ cody0710'at'hotmail.com for further discussions but do not send me anything nonsense such as cold emails. ;)
 - Speaking of current activities, I'm working on organizing URL lists that might help you pass Microsoft Azure certs and AWS certs.
 - I wouldn't say they are a compilation of cheat sheets rather they're regaraded as crib notes that have been pulled out of my head.
 - Might I remind you first, if you mastered all the contents here, I'm sure you'll pass them with no hustled-up no stressed-out either.
-- I’m interested in working in Singapore or Quebec in Canada (Living in Tokyo at the moment and of course enjoying my life here too. :)
+- I’m interested in working in Singapore or Quebec in Canada (Living in Tokyo at the moment & of course enjoying my life here as well.
 - Currently I’m heavily learning C#, Kubernetes, and French. :)
 - I’ve been trying to elaborate on the knowledge that'll prepare you to be in a good shape for Microsoft and Amazon's cloud exams.
 - I had CEH, CompTIA Network+, Security+, and some other Linux related certs way long time ago. All of them are expired though. 
