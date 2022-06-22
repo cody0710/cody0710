@@ -1,4 +1,4 @@
-- Hi, cody0710 is one of my pseudonym and restarted using GitHub recently to share my learning experiences with other developers.
+- Hi, cody0710 is one of my pseudonym and restarted using GitHub mainly to share my coding experiences with other developers.
 - You can contact me at cody0710'at'hotmail.com for discussions but please don't send me anything nonsense such as cold emails. ;)
 - Speaking of current activities, I'm working on organizing URL lists that might help you pass Microsoft Azure Certs and AWS Certs.
 - I wouldn't say they are a compilation of cheat sheets rather they're regaraded as crib notes that have been pulled out of my head.
