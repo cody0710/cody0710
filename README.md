@@ -1,5 +1,5 @@
-- Hi there, cody0710 is one of my pseudonym and restarted using GitHub recently to share my learning experiences with other developers.
-- You can contact me at cody0710@hotmail.com for discussions but please don't send me any sales promo campaigns, or something else ;)
+- Hi, cody0710 is one of my pseudonym and restarted using GitHub recently to share my learning experiences with other developers.
+- You can contact me at cody0710@hotmail.com for discussions but please don't send me anything nonsense such as promo campaigns ;)
 - Speaking of current activities, I'm working on organizing URL lists that might help you pass Microsoft Azure Certs and AWS Certs.
 - I wouldn't say they are a compilation of cheat sheets rather they're regaraded as crib notes that have been pulled out of my head.
 - Might I remind you first, if you mastered all the contents here, I'm sure you'll pass them with no hustle nor stressed-out mind.
