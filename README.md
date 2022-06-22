@@ -1,7 +1,7 @@
-- Hi there, I’m cody0710 and am using one of my pseudo-accounts that I have been using since Microsoft M&A'ed the hotmail 25 years ago.
+- Hi there, I’m cody0710 and am using one of my pseudo-accounts that I've been using since Microsoft M&A'ed the hotmail 25 years ago.
 - You can contact me at cody0710@hotmail.com but please don't send me any sales promo campaigns, or something else ;)
-- Speaking of current activities, I'm working on organizing URL link lists that might help you pass Microsoft Azure Certs and AWS Certs.
-- I wouldn't say they are a compilation of cheat sheets but rather they are regaraded as crib notes that have been pulled out of my head.
+- Speaking of current activities, I'm working on organizing URL lists that might help you pass Microsoft Azure Certs and AWS Certs.
+- I wouldn't say they are a compilation of cheat sheets rather they're regaraded as crib notes that have been pulled out of my head.
 - Might I remind you first, if you mastered all the contents here, I'm sure you'll pass them with no hustle nor stressed-out mind.
 
 - I’m interested in working in Singapore or Canada (Living in Tokyo at the moment and love it :).
