@@ -7,7 +7,7 @@
 - Currently I’m heavily learning C#, Kubernetes, and French. :)
 - I’ve been trying to elaborate on the knowledge that'll prepare you to be in a good shape for Microsoft and Amazon's cloud exams.
 - I had CEH, CompTIA Network+, Security+, and some other Linux related certs way long time ago. All of them are expired though. 
-- So I'm not sure if I can advise you something worthy because nowadays they are completely different compared to the ones in the past.
+- So I'm not sure if I can advise you something worthy because nowadays they're completely different compared to the ones in the past.
 - However, last but not least, I'm an active / valid CCNP holder who also has a few cloud certifications that Microsoft has to offer.
 
 <!---
