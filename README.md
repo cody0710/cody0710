@@ -2,7 +2,7 @@
 - You can contact me at cody0710'at'hotmail.com for discussions but please don't send me anything nonsense such as cold emails. ;)
 - Speaking of current activities, I'm working on organizing URL lists that might help you pass Microsoft Azure Certs and AWS Certs.
 - I wouldn't say they are a compilation of cheat sheets rather they're regaraded as crib notes that have been pulled out of my head.
-- Might I remind you first, if you mastered all the contents here, I'm sure you'll pass them with no hustled-up no stressed-out.
+- Might I remind you first, if you mastered all the contents here, I'm sure you'll pass them with no hustled-up no stressed-out either.
 - I’m interested in working in Singapore or Canada (Living in Tokyo at the moment and love it. :)
 - Currently I’m heavily learning C#, Kubernetes, and French. :)
 - I’ve been trying to elaborate on the knowledge that'll prepare you to be in a good shape for Microsoft and Amazon's cloud exams.
