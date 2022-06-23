@@ -9,9 +9,8 @@
 - I had CEH, CompTIA Network+, Security+, and some other Linux related certs way long time ago. All of them are expired though. 
 - So I'm not sure if I can advise you something worthy because nowadays they're completely different compared to ones in the past.
 - However, last but not least, I'm an active & valid CCNP holder who also have a few cloud certifications that Microsoft has to offer.
-
+https://github.com/cody0710#-technologies:~:text=%E2%9A%A1,Technologies
 <!---
 cody0710/cody0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github.com/cody0710#-technologies:~:text=%E2%9A%A1,Technologies
